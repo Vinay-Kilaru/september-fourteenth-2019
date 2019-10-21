@@ -1,3 +1,4 @@
+Hi
 import os
-name ( Kumar)
+name = Kumar
 print ("hello" + name)
